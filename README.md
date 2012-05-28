@@ -13,7 +13,7 @@ It's best to install crudify by adding your Rails project's Gemfile:
 
     # Gemfile
     source "http://rubygems.org"
-    gem 'crudify', '>= 0.1.0'
+    gem 'active_crudify', '>= 0.1.0'
 
 Now run:
 

@@ -1,0 +1,9 @@
+en:
+  flash:
+    actions:
+      create:
+        notice: "%{resource_name} create successfully!"
+        alert: "%{resource_name} create failure!"
+      update:
+        notice: "%{resource_name} update successfully!"
+        alert: "%{resource_name} update failure!"

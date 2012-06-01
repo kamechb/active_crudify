@@ -9,7 +9,7 @@ ActiveCrudify was inspired from Crudify.
 Installation
 ------------
 
-It's best to install crudify by adding your Rails project's Gemfile:
+It's best to install ActiveCrudify by adding your Rails project's Gemfile:
 
     # Gemfile
     source "http://rubygems.org"
